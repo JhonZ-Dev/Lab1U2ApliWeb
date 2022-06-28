@@ -1,0 +1,28 @@
+.container{
+
+    text-align: center;
+
+}
+
+canvas{
+    border:2px solid black;
+    background-color: #eb97ae;
+    display:inline;
+
+    
+}
+#canvas{
+    text-align: center;
+}
+
+body{
+
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    padding-top: 50px;
+}
+
+.titulo{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    
+}
